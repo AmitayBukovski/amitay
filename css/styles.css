@@ -1,0 +1,52 @@
+body{
+  /*margin: 100px;*/
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+h1{
+  color: #66BFBF;
+  line-height: 2;
+  font-size: 60px;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  color: #66BFBF;
+}
+
+h3{
+  color: #66BFBF;
+}
+
+p{
+  font-size: 30px;
+  font-family: 'Sacramento', cursive;
+}
+span{
+  text-decoration: underline;
+}
+
+.top-container{
+  background-color: #F4F9F5;
+}
+
+.top-cloud{
+  position: absolute;
+  top:100px;
+  left: 1100px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  top:100px;
+  left: 700px;
+}
+
+.middle-container{
+}
+
+.bottom-container{
+  }
